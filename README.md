@@ -15,7 +15,7 @@ I am practicing version control, commands, and real workflows.
 
 ---
 
-## 🔄 Basic Git Workflow I Follow1. Create or modify files  
+## 🔄 Basic Git Workflow I Follow Create or modify files  
 2. git add .  
 3. git commit -m "message"  
 4. git push  
@@ -46,5 +46,4 @@ I am practicing version control, commands, and real workflows.
 ## 🚀 Tools Used
 - Git  
 - GitHub  
-- VS Code  # git-journey
-learning Git 'nd GitHub 
+- VS Code 
