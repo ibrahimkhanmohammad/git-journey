@@ -1,4 +1,16 @@
-# Learning Git step by step and improving daily.
+# My Git & GitHub Journey 🚀
+
+> Learning Git step by step and applying it in real workflows.
+
+## 📁 Repository Structure
+git-journey/
+│
+├── README.md
+├── commands/
+├── notes/
+├── practice/
+│   └── project1/
+│       └── index.html 
 
 ## 📌 About
 This repository documents my learning journey of Git and GitHub.  
