@@ -41,7 +41,7 @@ I am practicing version control, commands, and real workflows.
 ---
 
 ## 🎯 Next Goals
-- Learn Linux basics  
+- Learn Python and Learn Backend Development 
 - Use Git in real projects  
 - Improve branching and merging skills  
 
